@@ -6,6 +6,7 @@ A fun and interactive 2-player dice game built with **HTML**, **CSS**, and **Jav
 
 ## 📂 Project Structure
 
+```text
 DiceGame/
 ├── static/
 │   └── images/
@@ -14,11 +15,12 @@ DiceGame/
 │       ├── Dice3.png
 │       ├── Dice4.png
 │       ├── Dice5.png
-│       └── Dice6.png   # Images of dice faces
+│       └── Dice6.png   # Dice face images
 ├── index.html          # Main HTML file
-├── styles.css          # Styling file
-├── app.js              # Game logic and animation
-└── README.md           # Project description
+├── styles.css          # Styling with Google Fonts
+├── app.js              # Game logic and animations
+└── README.md           # Project documentation
+
 
 
 ---
