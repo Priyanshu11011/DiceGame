@@ -20,8 +20,7 @@ DiceGame/
 ├── styles.css          # Styling with Google Fonts
 ├── app.js              # Game logic and animations
 └── README.md           # Project documentation
-
-
+```
 
 ---
 
